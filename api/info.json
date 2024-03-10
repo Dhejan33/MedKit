@@ -1,0 +1,206 @@
+{
+    "cards": [
+      {
+        "_id": 1,
+        "name": "Devices",
+        "icon": "Tablet",
+        "color": "#1CBFC3",
+        "amount": 3621,
+        "percentage": 2,
+        "active": "Devices added this Month"
+      },
+      {
+        "_id": 2,
+        "name": "Services",
+        "icon": "Tools",
+        "color": "#FF891A",
+        "amount": 952,
+        "percentage": "Last Service",
+        "active": "was on May"
+      },
+      {
+        "_id": 3,
+        "name": "Investments",
+        "icon": "CurrencyDollar",
+        "color": "#FE6B6E",
+        "amount": "21 L",
+        "percentage": "3 L",
+        "active": "Invested This Month"
+      }
+    ],
+    "news": [
+      {
+        "_id": 1,
+        "img": "./assests/items/items/news-1.jpg",
+        "title": "Nihil blanditiis at in nihil autem",
+        "subtitle": "Sit recusandae non aspernatur laboriosam. Quia enim eligendi sed ut harum",
+        "category": "abc"
+      },
+      {
+        "_id": 2,
+        "img": "../assets/items/news-2.jpg",
+        "title": "Quidem autem et impedit",
+        "subtitle": "Illo nemo neque maiores vitae officiis cum eum turos elan dries werona nande",
+        "category": "abc"
+      },
+      {
+        "_id": 3,
+        "img": "../assets/items/news-3.jpg",
+        "title": "Id quia et et ut maxime similique occaecati ut",
+        "subtitle": "Fugiat voluptas vero eaque accusantium eos. Consequuntur sed ipsam et totam",
+        "category": "abc"
+      },
+      {
+        "_id": 4,
+        "img": "../assets/items/news-4.jpg",
+        "title": "Laborum corporis quo dara net para",
+        "subtitle": "Qui enim quia optio. Eligendi aut asperiores enim repellendusvel rerum cuder",
+        "category": "abc"
+      },
+      {
+        "_id": 5,
+        "img": "../assets/items/news-5.jpg",
+        "title": "Et dolores corrupti quae illo quod dolor",
+        "subtitle": "Odit ut eveniet modi reiciendis. Atque cupiditate libero beatae dignissimos eius",
+        "category": "abc"
+      }
+    ],
+    "topselling": [
+      {
+        "_id": 1,
+        "number": "#5565",
+        "customer": "Siemens",
+        "product": "Fetal Monitor",
+        "price": "#64",
+        "status": "Approved",
+        "QR":"QR1"
+      },
+      {
+        "_id": 2,
+        "number": "#2147",
+        "customer": "Roche",
+        "product": "Pulse Oximeter",
+        "price": "#47",
+        "status": "Pending",
+        "QR":"QR2"
+      },
+      {
+        "_id": 3,
+        "number": "#2049",
+        "customer": "Thermo",
+        "product": "Defibrillator",
+        "price": "#147",
+        "status": "Approved",
+        "QR":"QR3"
+      },
+      {
+        "_id": 4,
+        "number": "#2644",
+        "customer": "Agilent",
+        "product": "Electro Cardio Gram",
+        "price": "#67",
+        "status": "Rejected",
+        "QR":"QR4"
+      },
+      {
+        "_id": 5,
+        "number": "#3592",
+        "customer": "Bio-Rad",
+        "product": "Blood Pressure Monitor",
+        "price": "#135",
+        "status": "Approved",
+        "QR":"QR5"
+      }
+    ],
+    "recentsales": [
+      {
+        "_id": 6,
+        "number": "#1288",
+        "customer": "Medtronic",
+        "product": "MRI Machine",
+        "price": "#280",
+        "status": "Pending",
+        "QR": "QR6"
+      },      
+      {
+        "_id": 7,
+        "number": "#3896",
+        "customer": "Philips",
+        "product": "X-Ray Machine",
+        "price": "#195",
+        "status": "Approved",
+        "QR": "QR7"
+      },
+      {
+        "_id": 8,
+        "number": "#5721",
+        "customer": "GE Healthcare",
+        "product": "Ultrasound Scanner",
+        "price": "#120",
+        "status": "Pending",
+        "QR": "QR8"
+      },
+      {
+        "_id": 9,
+        "number": "#7433",
+        "customer": "Intuitive Surgical",
+        "product": "Surgical Robot",
+        "price": "#750",
+        "status": "Approved",
+        "QR": "QR9"
+      },
+      {
+        "_id": 10,
+        "number": "#9124",
+        "customer": "Dräger",
+        "product": "Anesthesia Machine",
+        "price": "#320",
+        "status": "Pending",
+        "QR": "QR10"
+      }  
+    ],
+    "recentactiviy": [
+      {
+        "_id": 1,
+        "time": "20 min",
+        "color": "text-success",
+        "content": "Successfully calibrated the MRI Machine for accurate diagnostics",
+        "highlight": "calibrated the MRI Machine"
+      },
+      {
+        "_id": 2,
+        "time": "1 hr",
+        "color": "text-danger",
+        "content": "Identified and resolved an issue with the Anesthesia Machine",
+        "highlight": "resolved an issue with the Anesthesia Machine"
+      },
+      {
+        "_id": 3,
+        "time": "3 hrs",
+        "color": "text-primary",
+        "content": "Conducted training session on the proper use of the Ultrasound Scanner",
+        "highlight": "training session on the Ultrasound Scanner"
+      },
+      {
+        "_id": 4,
+        "time": "2 days",
+        "color": "text-info",
+        "content": "Performed routine maintenance on the X-Ray Machine for optimal functionality",
+        "highlight": "routine maintenance on the X-Ray Machine"
+      },
+      {
+        "_id": 5,
+        "time": "1 week",
+        "color": "text-warning",
+        "content": "Installed software updates on the Surgical Robot to enhance performance",
+        "highlight": "installed updates on the Surgical Robot"
+      },
+      {
+        "_id": 6,
+        "time": "3 weeks",
+        "color": "text-muted",
+        "content": "Reviewed and documented usage protocols for the Blood Pressure Monitor",
+        "highlight": "reviewed protocols for the Blood Pressure Monitor"
+      }
+    ]    
+  }
